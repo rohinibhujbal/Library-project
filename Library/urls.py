@@ -31,4 +31,4 @@ urlpatterns = [
 ]
 
 # http://127.0.0.1:8000/      -BASE URL ALWYS FIXED
-# http://127.0.0.1:8000/admin/     THESE URL HITS ON CHROME
+# http://127.0.0.1:8000/admin/     THESE URL HITS ON CHROMEdfsdsdsds
